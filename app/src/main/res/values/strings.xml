@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyEldroidApp</string>
+    <string name="letter_customization">Letter Customization</string>
+    <string name="theme">Theme</string>
+    <string name="message">Message</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="love">Love</string>
+    <string name="birthday">Birthday</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="create">CREATE</string>
+    <string name="to_whom">To Whom:</string>
+    <string name="with_background">With Background</string>
+    <string name="add_random_picture">Add Random Picture</string>
+    <string name="add_random_quote">Add Random Quote</string>
+    <string name="receiver">Hi %1$s!</string>
+    <string name="additional_items">Additional Items:</string>
+    <string name="this_is_a_message">This is a message</string>
+    <string name="quot_this_is_a_quote_quot">\"This is a quote\"</string>
+</resources>
