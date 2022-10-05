@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/button_circular.xml" value="0.144" />
         <entry key="app/src/main/res/layout/activity_customized_letter.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_letter_for_usplash_screen.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
